@@ -1,0 +1,28 @@
+body{
+  background-color: rgba(240, 240, 240, 0.7)
+}
+
+.header {
+  background: rgba(120, 170, 250, 1);
+  border: rgba(200, 200, 200, 0.7) 2px solid;
+  padding: 150px;
+  margin: auto;
+  text-align: center;
+}
+
+
+.menu{
+  background-color: rgba(230, 230, 230, 0.7);
+}
+.menu{
+text-align: right;
+}
+.menu span{
+  font-family: "Arial", Arial, sans-serif;
+  font-size: 20px;
+  padding: 40px;
+}
+
+.login {
+  background-color: green;
+}
